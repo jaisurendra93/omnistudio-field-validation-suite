@@ -106,7 +106,3 @@ in the org rather than included here.
 
 - Salesforce CLI
 - An org with the OmniStudio managed package installed (namespace `omnistudio`)
-
-## Demo
-
-[Add screen recording link here]
